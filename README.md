@@ -1,1 +1,3 @@
 # Covid_19_Analysis
+
+The Link to the interactive dashboard: https://app.powerbi.com/view?r=eyJrIjoiMDBkYmM4YmMtNjlmZi00NTY1LWFkOTgtNDdlYTYwMWRmYTc1IiwidCI6ImQ4ZmJkNWI4LTEzNTYtNDRmZC1hNjFlLWNmZjZmOTYzNzA1OSJ9&pageName=ReportSection9e26b1a0c4907d846118
